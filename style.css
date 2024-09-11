@@ -54,6 +54,17 @@ display: block;
     border-width: 5px;
     border: solid; border-color: transparent;
 }
-
+.background{
+    position: relative;
+    width: fit-content;
+}
+.maid{
+    position: absolute;
+    color: white;
+    text-size-adjust: 100px;
+}
+.b2{
+    margin-left: 30px;
+}
 
 
