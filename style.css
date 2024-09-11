@@ -1,7 +1,7 @@
 *{
-    background-color: black;
+    background-color: rgb(34, 30, 30);
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    
+    color: white;
 }
 .logo{
     width: 80px;
@@ -40,7 +40,11 @@ display: block;
    
   
 }
-
+#top{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-display: 10px;
+}
 
 
 
