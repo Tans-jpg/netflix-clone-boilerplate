@@ -1,0 +1,47 @@
+*{
+    background-color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+.logo{
+    width: 80px;
+}
+.a1{
+position: relative;
+display: block;
+}
+.start{
+    color: blanchedalmond;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.movies{
+    color: blanchedalmond;
+    margin-left: 40px;
+   
+  
+}
+.new{
+    color: blanchedalmond;
+    margin-left: 40px;
+   
+  
+}
+.show{
+    color: blanchedalmond;
+    margin-left: 40px;
+   
+  
+}
+.mylist{
+    color: blanchedalmond;
+    margin-left: 40px;
+   
+  
+}
+
+
+
+
+
